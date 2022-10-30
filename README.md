@@ -1,4 +1,4 @@
 # GitHubTest
 GitHubのテスト
 
-吾輩は猫である。
+吾輩は犬である。
